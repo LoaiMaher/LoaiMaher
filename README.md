@@ -9,8 +9,8 @@ I am committed to continuous learning and development in the field of web develo
 # About me
 <ul>
   <li>💻Love Programming</li>
-  <li>🌱 I’m currently learning MERN stack </li>
-  <li>💬 Ask me about MERN</li>
+  <li>🌱 I’m currently working on projects using MERN and PERN stack  </li>
+  <li>💬 Ask me about MERN AND PERN</li>
   <li>🏓 My hobby is ping pong</li>
 </ul>
 
